@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="116" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://validation.gdn.giants-software.com/xml/fs25/modDesc.xsd">
+    <author>FS Modding</author>
+    <version>0.1.0.0</version>
+    <title>
+        <en>Radial Radio (GTA style)</en>
+        <ro>Radio Radial (stil GTA)</ro>
+    </title>
+    <description>
+        <en><![CDATA[Radial radio wheel like in GTA V. Hold the - (minus) key in a vehicle (or on foot if radio range is set to Always), move the mouse to a station, release to tune. Type rrScan in the console to rescan stations.]]></en>
+        <ro><![CDATA[Roata radial de radio ca in GTA V. Tii apasat - (minus) intr-un vehicul (sau pe jos daca raza radio e Always), muti mouse-ul pe o statie, dai drumul ca sa o pornesti. Scrie rrScan in consola ca sa rescanezi statiile.]]></ro>
+    </description>
+    <multiplayer supported="true"/>
+    <extraSourceFiles>
+        <sourceFile filename="scripts/RadialRadio.lua"/>
+    </extraSourceFiles>
+</modDesc>
